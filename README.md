@@ -41,6 +41,6 @@ Since this project is primarily for showcasing my skills, there are no installat
 ![Image Description](path/to/image.jpg)
 
 <video width="320" height="240" controls>
-  <source src="video of pilot sample in warehoure.mp4" type="video/mp4">
+  <source src="https://www.youtube.com/watch?v=EgmXTmj62ic&list=PLvzwHEdgeE0UXd332AxcG0YRUV-3TAr2e&index=50" type="video/mp4">
   Your browser does not support the video tag.
 </video>
