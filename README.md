@@ -37,10 +37,11 @@ The project is designed to control and manage laptop allocation on warehouse she
 ## Usage
 
 Since this project is primarily for showcasing my skills, there are no installation or usage instructions. However, you can explore the scripts to understand the implementation details and how they interact.
+<p align="center">
+  <img src="https://github.com/Cph4v/QR_code_detection_real_time/blob/main/photo_2024-06-09_15-04-02.jpg" width="400"/>
+  <img src="https://github.com/Cph4v/QR_code_detection_real_time/blob/main/edited2.png" width="400"/>
+![Image Description](https://github.com/Cph4v/QR_code_detection_real_time/blob/main/edited2.png)
+![Image Description](https://github.com/Cph4v/QR_code_detection_real_time/blob/main/edited1.png)
+</p>
 
-![Image Description](path/to/image.jpg)
 
-<video width="320" height="240" controls>
-  <source src="https://www.youtube.com/watch?v=EgmXTmj62ic&list=PLvzwHEdgeE0UXd332AxcG0YRUV-3TAr2e&index=50" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
