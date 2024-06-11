@@ -1,6 +1,6 @@
 # QR-Code Project
 
-This repository is a collection of scripts demonstrating my capabilities in programming and deploying solutions. The project showcases various functionalities related to QR code processing, camera tuning, motion detection, and more. It is intended as a portfolio piece rather than a deployable application.this code was similar to a part of my project in rapid solutions internatinal.
+This repository is a collection of scripts demonstrating my capabilities in programming and deploying solutions. The project showcases various functionalities related to QR code processing, camera tuning, motion detection, and more. It is intended as a portfolio piece rather than a deployable application. This code was similar to a part of my project in Rapid Solutions International.
 
 ## Project Structure
 
@@ -13,6 +13,7 @@ This repository is a collection of scripts demonstrating my capabilities in prog
 - **motion_detection.py**: Implements motion detection functionality.
 - **train_all_together.py**: Script to train models or processes required for the application.
 - **Dockerfile**: Docker configuration for deployment on Jetson Nano and potentially the cloud.
+- **environment.yml**: Conda environment configuration file for setting up dependencies.
 
 ## Features
 
@@ -27,19 +28,6 @@ This repository is a collection of scripts demonstrating my capabilities in prog
 
 Since this project is primarily for showcasing my skills, there are no installation or usage instructions. However, you can explore the scripts to understand the implementation details and how they interact.
 
-## Code Examples
+![Image Description](path/to/image.jpg)
 
-### Detecting LED Bulbs
-
-```python
-# Example code snippet from detect_led_blubs.py
-import cv2
-
-def detect_led(image_path):
-    image = cv2.imread(image_path)
-    # Detection logic here
-    return detected_leds
-
-# Usage
-detected_leds = detect_led('path/to/image.jpg')
-print(detected_leds)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/your_video_id" frameborder="0" allowfullscreen></iframe>
