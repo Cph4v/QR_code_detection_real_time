@@ -2,6 +2,16 @@
 
 This repository is a collection of scripts demonstrating my capabilities in programming and deploying solutions. The project showcases various functionalities related to QR code processing, camera tuning, motion detection, and more. It is intended as a portfolio piece rather than a deployable application. This code was similar to a part of my project in Rapid Solutions International.
 
+## Project Overview
+
+### Purpose
+The project is designed to control and manage laptop allocation on warehouse shelves. It ensures that workers pick the correct laptops by providing visual cues and alerts.
+
+### Functionality
+1. **Error Prevention**: If a laptop is picked incorrectly, a red LED lights up above its position, indicating an error.
+2. **Guided Retrieval**: When the main software sends a JSON request to the local warehouse software, a green LED lights up above the designated laptop's shelf, guiding workers to pick the correct laptop without triggering the red LED alarm.
+3. **Inventory Management**: Managers can add new laptops to the inventory by placing them on empty shelves and manually updating the system. The local software then assigns the laptops to shelf QR codes, updates the local database, and synchronizes this information with the main software.
+
 ## Project Structure
 
 - **all_steps_together.py**: Integrates all major steps of the project in one script.
@@ -30,4 +40,7 @@ Since this project is primarily for showcasing my skills, there are no installat
 
 ![Image Description](path/to/image.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/your_video_id" frameborder="0" allowfullscreen></iframe>
+<video width="320" height="240" controls>
+  <source src="https://github.com/Cph4v/QR_code_detection_real_time/blob/main/real_process_in_warehouse.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
