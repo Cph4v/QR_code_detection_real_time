@@ -1,6 +1,6 @@
 # QR-Code Project
 
-This repository is a collection of scripts demonstrating my capabilities in programming and deploying solutions. The project showcases various functionalities related to QR code processing, camera tuning, motion detection, and more. It is intended as a portfolio piece rather than a deployable application.
+This repository is a collection of scripts demonstrating my capabilities in programming and deploying solutions. The project showcases various functionalities related to QR code processing, camera tuning, motion detection, and more. It is intended as a portfolio piece rather than a deployable application.this code was similar to a part of my project in rapid solutions internatinal.
 
 ## Project Structure
 
@@ -12,6 +12,7 @@ This repository is a collection of scripts demonstrating my capabilities in prog
 - **manual_ROI_detection.py**: Script for manually detecting regions of interest (ROIs) in images.
 - **motion_detection.py**: Implements motion detection functionality.
 - **train_all_together.py**: Script to train models or processes required for the application.
+- **Dockerfile**: Docker configuration for deployment on Jetson Nano and potentially the cloud.
 
 ## Features
 
@@ -20,6 +21,7 @@ This repository is a collection of scripts demonstrating my capabilities in prog
 - **Motion Detection**: Implements algorithms to detect movement within a frame.
 - **LED Detection**: Identifies and processes images containing LED bulbs.
 - **Utility Functions**: A set of helper functions to support various tasks within the project.
+- **Docker Deployment**: Configuration for running the project on a Jetson Nano device, with potential for cloud deployment.
 
 ## Usage
 
