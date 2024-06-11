@@ -37,6 +37,8 @@ The project is designed to control and manage laptop allocation on warehouse she
 ## Usage
 
 Since this project is primarily for showcasing my skills, there are no installation or usage instructions. However, you can explore the scripts to understand the implementation details and how they interact.
+
+#### Please refer to this file for video demo ---> /after detecting a motion software start to check all QR codes and light up LED’s upon lost QR code and laptop.mp4
 <p align="center">
   <img src="https://github.com/Cph4v/QR_code_detection_real_time/blob/main/photo_2024-06-09_15-04-02.jpg" width="400"/>
   <img src="https://github.com/Cph4v/QR_code_detection_real_time/blob/main/edited2.png" width="400"/>
