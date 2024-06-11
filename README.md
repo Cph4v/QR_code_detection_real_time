@@ -40,8 +40,6 @@ Since this project is primarily for showcasing my skills, there are no installat
 <p align="center">
   <img src="https://github.com/Cph4v/QR_code_detection_real_time/blob/main/photo_2024-06-09_15-04-02.jpg" width="400"/>
   <img src="https://github.com/Cph4v/QR_code_detection_real_time/blob/main/edited2.png" width="400"/>
-![Image Description](https://github.com/Cph4v/QR_code_detection_real_time/blob/main/edited2.png)
-![Image Description](https://github.com/Cph4v/QR_code_detection_real_time/blob/main/edited1.png)
 </p>
 
 
