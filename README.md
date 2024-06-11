@@ -41,6 +41,6 @@ Since this project is primarily for showcasing my skills, there are no installat
 ![Image Description](path/to/image.jpg)
 
 <video width="320" height="240" controls>
-  <source src="https://github.com/Cph4v/QR_code_detection_real_time/blob/main/real_process_in_warehouse.mp4" type="video/mp4">
+  <source src="video of pilot sample in warehoure.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
