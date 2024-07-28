@@ -12,7 +12,7 @@ The project is designed to control and manage laptop allocation on warehouse she
 2. **Guided Retrieval**: When the main software sends a JSON request to the local warehouse software, a green LED lights up above the designated laptop's shelf, guiding workers to pick the correct laptop without triggering the red LED alarm.
 3. **Inventory Management**: Managers can add new laptops to the inventory by placing them on empty shelves and manually updating the system. The local software then assigns the laptops to shelf QR codes, updates the local database, and synchronizes this information with the main software.
 
-## **i removed source code in this project because of Non-Disclosure Agreement between me and rapidsolutions international if you want to see my programming ability ask me to send you a sample!**
+## **i removed source code in this project because of Non-Disclosure Agreement between me and rapidsolutions international**
 
 ## Project Structure
 
